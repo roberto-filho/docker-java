@@ -19,8 +19,10 @@ This repository contains **Dockerfile** of [Java](https://www.java.com/) for [Do
 * `openjdk-7-jdk`: OpenJDK Java 7 JDK
 * `openjdk-7-jre`: OpenJDK Java 7 JRE
 * `oracle-java6`: Oracle Java 6 JDK
-* `oracle-java7`: Oracle Java 7 JDK
-* `oracle-java8`: Oracle Java 8 JDK
+* `java7`: Oracle Java 7 JDK
+* `java8`: Oracle Java 8 JDK
+
+The java8 image has curl tool installed.
 
 For example, you can run a `Oracle Java 8` container with the following command:
 
